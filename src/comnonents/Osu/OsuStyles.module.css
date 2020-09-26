@@ -1,0 +1,13 @@
+.osu {
+    width: 10vmax;
+    height: 10vmax;
+    background-color: tomato;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.form {
+    width: 80%;
+    margin: auto;
+    margin-top: 15%;
+}
